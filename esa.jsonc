@@ -1,6 +1,6 @@
 {
   "name": "home-page",
-  "entry": "./src/App.tsx",
+  "entry": "./vite.config.ts",
   "installCommand": "npm install",
   "buildCommand": "npm run build",
   "assets": {
