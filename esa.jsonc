@@ -1,0 +1,10 @@
+{
+  "name": "home-page",
+  "entry": "./src/App.tsx",
+  "installCommand": "npm install",
+  "buildCommand": "npm run build",
+  "assets": {
+    "directory": "./public",
+    "notFoundStrategy": "singlePageApplication"
+  }
+}
