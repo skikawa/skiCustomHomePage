@@ -1,0 +1,8 @@
+{
+  "name": "home-page",
+  "installCommand": "npm install",
+  "assets": {
+    "directory": "./public",
+    "notFoundStrategy": "singlePageApplication"
+  }
+}
