@@ -21,5 +21,5 @@ npm run dev
 npm run build
 ```
 Github Actions
->1. fork the repo
->2. download the zip and upload it to your server
+> fork the repo
+> download the zip and upload it to your server
