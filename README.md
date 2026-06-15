@@ -8,7 +8,7 @@ build with React 19 + Vite 8 + Mui 9
 Edit the `App.tsx`
 
 ## Deploy
->Node > 22
+>node > 22
 
 ```bash
 # Dependencies
