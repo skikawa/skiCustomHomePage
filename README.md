@@ -22,4 +22,4 @@ npm run build
 ```
 Github Actions
 > fork the repo
-> download the zip and upload it to your server
+> and download the zip and upload it to your server
