@@ -21,6 +21,6 @@ npm run dev
 npm run build
 ```
 Github Actions
-> 1.Fork the repo
-> 2.Wait the Actions finish ```auto build```
+> 1.Fork the repo   
+> 2.Wait the Actions finish ```auto build```   
 > 3.download the ```zip file``` and upload it to your server
