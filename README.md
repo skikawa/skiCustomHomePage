@@ -8,7 +8,7 @@ build with React 19 + Vite 8 + Mui 9
 Edit the `App.tsx`
 
 ## Deploy
->node > 22
+>node >= 24
 
 ```bash
 # Dependencies
@@ -20,3 +20,6 @@ npm run dev
 # Build
 npm run build
 ```
+Github Actions
+>1. fork the repo
+>2. download the zip and upload it to your server
