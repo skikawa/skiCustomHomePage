@@ -8,12 +8,13 @@ build with React 19 + Vite 8 + Mui 9
 Edit the `App.tsx`
 
 ## Deploy
->Nodejs >= 22
+>Node > 22
 
 ```bash
+# Dependencies
 npm install
 
-# Preview
+# Dev
 npm run dev
 
 # Build
