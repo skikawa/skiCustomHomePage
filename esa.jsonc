@@ -2,7 +2,7 @@
   "name": "home-page",
   "installCommand": "npm install",
   "assets": {
-    "directory": "./public",
+    "directory": "./dist",
     "notFoundStrategy": "singlePageApplication"
   }
 }
