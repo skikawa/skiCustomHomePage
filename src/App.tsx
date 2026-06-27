@@ -57,7 +57,7 @@ export default function App() {
               letterSpacing: '0.5px',
             }}
           >
-            Skikawa
+            Ski
           </Typography>
 
           <Typography 
